@@ -17,6 +17,7 @@ StudentID	Name	Department	Semester	GPA	Attendance
 16	Student16	ECE	1	7	68
 17	Student17	MECH	2	7.7	71
 18	Student18	CSE	3	8	74
+
 19	Student19	ECE	4	8.7	77
 20	Student20	MECH	5	6.5	80
 21	Student21	CSE	6	7.2	83
